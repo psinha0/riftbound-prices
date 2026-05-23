@@ -3,8 +3,9 @@
 Daily card price updater for Riftbound TCG.
 
 Fetches the full card list from RiftCodex, picks the 50 cards with the
-oldest cached prices, refreshes them via JustTCG, and writes the result
-back to docs/prices.json so GitHub Pages can serve it to the Android app.
+oldest cached prices, refreshes them via the tcggo CardMarket API, converts
+EUR → USD using a live exchange rate, and writes the result back to
+docs/prices.json so GitHub Pages can serve it to the Android app.
 """
 
 import json
@@ -14,13 +15,14 @@ from datetime import datetime, timezone
 
 import requests
 
-JUSTTCG_API_KEY = os.environ["JUSTTCG_API_KEY"]
-JUSTTCG_GAME    = "riftbound-league-of-legends-trading-card-game"
+TCGGO_API_KEY   = os.environ["TCGGO_API_KEY"]
+TCGGO_HOST      = "cardmarket-api-tcg.p.rapidapi.com"
+TCGGO_GAME      = "riftbound"
 RIFTCODEX_URL   = "https://api.riftcodex.com"
-JUSTTCG_URL     = "https://api.justtcg.com"
+EXCHANGE_URL    = "https://open.er-api.com/v6/latest/EUR"
 PRICES_FILE     = "docs/prices.json"
 DAILY_LIMIT     = 50
-REQUEST_DELAY   = 1.2  # seconds between JustTCG calls to avoid rate-limiting
+REQUEST_DELAY   = 1.5  # seconds between tcggo calls
 
 
 # ── I/O helpers ──────────────────────────────────────────────────────────────
@@ -37,6 +39,21 @@ def save_prices(data: dict):
     os.makedirs("docs", exist_ok=True)
     with open(PRICES_FILE, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+# ── Exchange rate ─────────────────────────────────────────────────────────────
+
+def fetch_eur_to_usd() -> float:
+    """Return today's EUR→USD rate; fall back to 1.08 if unavailable."""
+    try:
+        resp = requests.get(EXCHANGE_URL, timeout=10)
+        resp.raise_for_status()
+        rate = resp.json()["rates"]["USD"]
+        print(f"  EUR→USD rate: {rate}")
+        return float(rate)
+    except Exception as exc:
+        print(f"  Exchange rate fetch failed ({exc}), using fallback 1.08")
+        return 1.08
 
 
 # ── RiftCodex ─────────────────────────────────────────────────────────────────
@@ -61,14 +78,17 @@ def fetch_all_cards() -> list[dict]:
     return cards
 
 
-# ── JustTCG ───────────────────────────────────────────────────────────────────
+# ── tcggo / CardMarket ────────────────────────────────────────────────────────
 
-def fetch_justtcg_price(card_name: str) -> float | None:
-    """Return the best available USD price for a card name, or None."""
+def fetch_tcggo_price(card_name: str, eur_to_usd: float) -> float | None:
+    """Return best available USD price for a card name via CardMarket, or None."""
     resp = requests.get(
-        f"{JUSTTCG_URL}/v1/cards",
-        headers={"x-api-key": JUSTTCG_API_KEY},
-        params={"q": card_name, "game": JUSTTCG_GAME},
+        f"https://{TCGGO_HOST}/{TCGGO_GAME}/cards",
+        headers={
+            "x-rapidapi-key":  TCGGO_API_KEY,
+            "x-rapidapi-host": TCGGO_HOST,
+        },
+        params={"search": card_name, "per_page": 5},
         timeout=30,
     )
     resp.raise_for_status()
@@ -82,12 +102,14 @@ def fetch_justtcg_price(card_name: str) -> float | None:
         (c for c in items if (c.get("name") or "").lower() == card_name.lower()),
         items[0],
     )
-    variants = match.get("variants") or []
 
-    # Prefer Near Mint price
-    nm = next((v for v in variants if "Near Mint" in (v.get("condition") or "")), None)
-    variant = nm or (variants[0] if variants else None)
-    return variant.get("price") if variant else None
+    cm = (match.get("prices") or {}).get("cardmarket") or {}
+    # Prefer 30-day average for stability; fall back to lowest NM listing
+    eur_price = cm.get("30d_average") or cm.get("lowest_near_mint")
+    if not eur_price:
+        return None
+
+    return round(float(eur_price) * eur_to_usd, 2)
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -108,6 +130,9 @@ def main():
     data   = load_prices()
     prices = data.get("prices", {})
 
+    print("Fetching EUR→USD exchange rate…")
+    eur_to_usd = fetch_eur_to_usd()
+
     print("Fetching card list from RiftCodex…")
     all_cards = fetch_all_cards()
     print(f"  {len(all_cards)} cards found")
@@ -125,11 +150,11 @@ def main():
 
         print(f"  Fetching: {name}")
         try:
-            price = fetch_justtcg_price(name)
+            price = fetch_tcggo_price(name, eur_to_usd)
             prices[name] = {
                 "priceUsd":    price,
                 "lastUpdated": today,
-                "source":      "JustTCG",
+                "source":      "CardMarket",
             }
             updated += 1
         except Exception as exc:

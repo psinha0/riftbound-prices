@@ -24,6 +24,7 @@ jobs:
       - name: Run price update script
         env:
           JUSTTCG_API_KEY: ${{ secrets.JUSTTCG_API_KEY }}
+          TCGGO_API_KEY:   ${{ secrets.TCGGO_API_KEY }}
         run: python scripts/update_prices.py
 
       - name: Commit updated prices

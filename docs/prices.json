@@ -1,4 +1,4055 @@
 {
-  "lastUpdated": "",
-  "prices": {}
+  "lastUpdated": "2026-05-23",
+  "prices": {
+    "Abandon": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Abandoned Hall": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Allay, Eager Admirer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Alpha Strike": {
+      "priceUsd": 5.64,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Alpha Wildclaw": {
+      "priceUsd": 2.63,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Altar of Blood": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Amateur Recital": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Angler Beast": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Arachnoid Horror": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Arena Kingpin": {
+      "priceUsd": 0.32,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ashe, Focused": {
+      "priceUsd": 0.5,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Atakhan": {
+      "priceUsd": 0.37,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Back Off": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bandle Soldier": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Baron Nashor": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Baron Pit": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bewitching Spirit": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bird": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Black Flame Altar": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Black Rose Dignitary": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blast Cone": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blighted Battleaxe": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blood Rose": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blue Sentinel": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bone Skewer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Brush": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Call to Battle": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Carrion Dredger": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Chakram Dancer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Clash of Giants": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Combat Experience": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Concentrate": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Conscription": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Crescent Guardian": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Crescent Strike": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Crimson Pigeons": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Crowd Favorite": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cursed Sarcophagus": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Curtain Call": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Daisy!": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dancing Grenade": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Deadly Flourish": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Death from Below": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Demacian Diplomat": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Determined Sentry": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Diana, Lunari": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Diana, No Longer Human": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Diana, Scorn of the Moon": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Disposal Order": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Divining Shells": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Double Trouble": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Downstage Dramatics": {
+      "priceUsd": 0.97,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dragonsoul Sage": {
+      "priceUsd": 1.47,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dramatic Visionary": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dusk Rose Lab": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Eclipse": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Elder Dragon": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Enthralling Protector": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Enthusiastic Promoter": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Evelynn, Entrancing": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Evershade Stalker": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Existential Dread": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fate Weaver": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Flurry of Feathers": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Forbidding Waste": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Forgotten Library": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Forgotten Signpost": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fresh Beans": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Friendship": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Frigid Jewel": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Frisky Hunter": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Frozen Fortress": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Galio, Indefatigable": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gardens of Becoming": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gemhand Hunter": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gentle Gemdragon": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Grim Apothecary": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Grim Resolve": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gustwalker": {
+      "priceUsd": 0.53,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gutter Palace": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Heedless Resurrection": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Herald of Spring": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Heroic Charge": {
+      "priceUsd": 46.92,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hextech Gauntlets": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Honeyfruit": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hunter's Machete": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hwei, Brooding Painter": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Iascylla": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Icevale Archer": {
+      "priceUsd": 0.68,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Imposing Challenger": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Inferna": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Insightful Investigator": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Inviolus Vox": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Irresistible Faefolk": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Isolate": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ivern, Friend to All": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ivern, Green Father": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ivern, Nurturer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jhin, Meticulous Killer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jhin, Murderous Artist": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jhin, Virtuoso": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Katarina, Reckless": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Keeper of Masks": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Keeper's Verdict": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kha'Zix, Evolving Hunter": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kha'Zix, Mutating Horror": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kha’Zix, Voidreaver": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kinkou Initiate": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Leblanc, Deceiver": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "LeBlanc, Everywhere at Once": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "LeBlanc, Fragmented": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lillia, Bashful Bloom": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lillia, Fae Fawn": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lillia, Protector of Dreams": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lilting Lullaby": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lord Broadmane": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lotus Trap": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Loyal Poro": {
+      "priceUsd": 0.66,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lunar Boon": {
+      "priceUsd": 0.79,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Maduli the Gatekeeper": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mageseeker Investigator": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Master Yi, Tempered": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Master Yi, Unstoppable": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Master Yi, Wuju Master": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Megatusk": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mirror Image": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mischievous Marai": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mister Root": {
+      "priceUsd": 0.81,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Monch": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Monster Harpoon": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Moonfall": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Moonlight Affliction": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mosstomper": {
+      "priceUsd": 0.65,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mutated Mouser": {
+      "priceUsd": 1.71,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Nami, Headstrong": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Nidalee, Cat Form": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Nilah, Joyful Ascetic": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Petal Pixie": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Poppy, Defender of the Meek": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Poppy, Keeper of the Hammer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Poppy, Paragon": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Prepared Neophyte": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pyke, Bloodharbor Ripper": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pyke, Dockside Butcher": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pyke, Returned": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Red Brambleback": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Reflection": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rengar, Pridestalker": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rengar, Trophy Hunter": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rengar, Unseen": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Repulse": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Revna the Lorekeeper": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rift Herald": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Right of Conquest": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ripper's Bay": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ruined Rex": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sacrifice": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Safety Inspector": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Scorchclaw": {
+      "priceUsd": 0.51,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Scrutinizing Sergeant": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Scryer's Bloom": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Scuttle Crab": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shadow": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shadow Watcher": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shadow's Call": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shard of Undoing": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sharkling": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shepherd's Heirloom": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sinister Poro": {
+      "priceUsd": 2.72,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Skyward Strike": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Smite": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Smoke and Mirrors": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Soul Harvest": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Soul Shepherd": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Soul Sword": {
+      "priceUsd": 0.78,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Spectral Centaur": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sprite Burst": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sprite Fountain": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sprite Queen": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Square Up": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stalking Wolf": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Star Spring": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Star-Crossed": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stare Down": {
+      "priceUsd": 3.78,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Starhound": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sumpworks Map": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Syndra, Transcendent": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Tactical Retreat": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Targonian Visionary": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Academy": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The List": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Ruination": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Thrill of the Hunt": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Towering Combatant": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Towering Pairofant": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Trapping Grounds": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Trevor Snoozebottom": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Tricksy Tentacles": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Turn to Dust": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ultrasoft Poro": {
+      "priceUsd": 2.33,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Undying Legion": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Undying Loyalty": {
+      "priceUsd": 1.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Upstage Comedy": {
+      "priceUsd": 0.79,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Valley of Idols": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vault Breaker": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vaults of Helia": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vex, Apathetic": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vex, Gloomist": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vex, Mocking": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vi, Hotheaded": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vi, Peacekeeper": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vi, Piltover Enforcer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vicious Snapjaws": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vilemaw": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Void Assault": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Voracious Gromp": {
+      "priceUsd": 0.68,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Walking Roost": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wily Newtfish": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wuju Apprentice": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Xerath, Freed": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yeti Brawler": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yuumi, Magical Cat": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Zilean, Time Mage": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pouty Poro": {
+      "priceUsd": 0.35,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lonely Poro": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plundering Poro": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Veteran Poro": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mystic Poro": {
+      "priceUsd": 0.19,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Daring Poro": {
+      "priceUsd": 0.23,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kha'Zix, Voidreaver": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Leblanc, Everywhere at Once": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Leblanc, Fragmented": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gold": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sprite": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "XP Tracker": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fury Rune": {
+      "priceUsd": 3.93,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Calm Rune": {
+      "priceUsd": 4.56,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mind Rune": {
+      "priceUsd": 4.94,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Body Rune": {
+      "priceUsd": 4.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Chaos Rune": {
+      "priceUsd": 5.64,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Order Rune": {
+      "priceUsd": 4.5,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Buff": {
+      "priceUsd": 270.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Against the Odds": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Akshan, Mischievous": {
+      "priceUsd": 0.86,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Altar of Memories": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ancient Henge": {
+      "priceUsd": 2.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ancient Warmonger": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Angle Shot": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Aphelios, Exalted": {
+      "priceUsd": 409.49,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Apprentice Smith": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Arcane Shift": {
+      "priceUsd": 5.55,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Arise!": {
+      "priceUsd": 15.81,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Armed Assailant": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Aspiring Engineer": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Assembly Rig": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Azir, Ascendant": {
+      "priceUsd": 2.11,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Azir, Emperor of the Sands": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Azir, Sovereign": {
+      "priceUsd": 5.52,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "B.F. Sword": {
+      "priceUsd": 0.24,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bard, Mercurial": {
+      "priceUsd": 324.4,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Beast Below": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bellows Breath": {
+      "priceUsd": 1.84,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Black Market Broker": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blade of the Ruined King": {
+      "priceUsd": 8122.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blast Corps Cadet": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blood Money": {
+      "priceUsd": 0.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blood Rush": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bonds of Strength": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Boneshiver": {
+      "priceUsd": 25.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Boots of Swiftness": {
+      "priceUsd": 0.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Breakneck Mech": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Brutalizer": {
+      "priceUsd": 0.23,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bubble Bot": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Buhru Captain": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bushwhack": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Called Shot": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Card Sharp": {
+      "priceUsd": 0.46,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Chemtech Cask": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cloth Armor": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Combat Chef": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Corina Veraza": {
+      "priceUsd": 3.57,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Corrupt Enforcer": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Counter Strike": {
+      "priceUsd": 4.11,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cull": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Danger Zone": {
+      "priceUsd": 1.24,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dauntless Vanguard": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Deathgrip": {
+      "priceUsd": 0.29,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Defiant Dance": {
+      "priceUsd": 25.75,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Desert's Call": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Detonate": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Direwing": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Disarming Rake": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Doran's Blade": {
+      "priceUsd": 0.26,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Doran's Ring": {
+      "priceUsd": 0.19,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Doran's Shield": {
+      "priceUsd": 0.27,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Downwell": {
+      "priceUsd": 8.67,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Drag Under": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Draven, Audacious": {
+      "priceUsd": 11.43,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Draven, Glorious Executioner": {
+      "priceUsd": 70.66,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Draven, Vanquisher": {
+      "priceUsd": 3.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dropboarder": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dunebreaker": {
+      "priceUsd": 3.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Eager Drakehound": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Edge of Night": {
+      "priceUsd": 1.8,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Eminent Benefactor": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Emperor's Dais": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Emperor's Divide": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Experimental Hexplate": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Eye of the Herald": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ezreal, Dashing": {
+      "priceUsd": 2.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ezreal, Prodigal Explorer": {
+      "priceUsd": 78.0,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ezreal, Prodigy": {
+      "priceUsd": 21.72,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Factory Recall": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fae Dragon": {
+      "priceUsd": 0.26,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fae Porter": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Feral Strength": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ferrous Forerunner": {
+      "priceUsd": 0.75,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fiora, Grand Duelist": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fiora, Peerless": {
+      "priceUsd": 2.25,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fiora, Worthy": {
+      "priceUsd": 5.37,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fizz, Trickster": {
+      "priceUsd": 0.84,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Forecaster": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Forge of the Fluft": {
+      "priceUsd": 24.62,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Forgefire Cape": {
+      "priceUsd": 0.91,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Forgotten Monument": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Frigid Touch": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Frostcoat Cub": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gearhead": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gem Jammer": {
+      "priceUsd": 0.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Glasc Mixologist": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Guardian Angel": {
+      "priceUsd": 3.5,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Guardian of the Passage": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Guards!": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hall of Legends": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hard Bargain": {
+      "priceUsd": 0.36,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Harpoon Squad": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Heart of Dark Ice": {
+      "priceUsd": 0.26,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Here to Help": {
+      "priceUsd": 0.19,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hexdrinker": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hextech Anomaly": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Honest Broker": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hostile Takeover": {
+      "priceUsd": 2.92,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Irelia, Blade Dancer": {
+      "priceUsd": 61.91,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Irelia, Fervent": {
+      "priceUsd": 1317.43,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Irelia, Graceful": {
+      "priceUsd": 2.51,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jae Medarda": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Janna, Savior": {
+      "priceUsd": 0.35,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jaull-Fish": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jax, Grandmaster at Arms": {
+      "priceUsd": 45.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jax, Unmatched": {
+      "priceUsd": 3.46,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jax, Unrelenting": {
+      "priceUsd": 3.55,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jayce, Man of Progress": {
+      "priceUsd": 0.41,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kato the Arm": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Last Rites": {
+      "priceUsd": 22.5,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Laurent Bladekeeper": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Laurent Duelist": {
+      "priceUsd": 0.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Legion Quartermaster": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Long Sword": {
+      "priceUsd": 0.61,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Loyal Pup": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lucian, Gunslinger": {
+      "priceUsd": 2.11,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lucian, Merciless": {
+      "priceUsd": 5.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lucian, Purifier": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Marai Spire": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Marching Orders": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Master Bingwen": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Minefield": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Minotaur Reckoner": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Navori Scout": {
+      "priceUsd": 0.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Needlessly Large Yordle": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Not So Fast": {
+      "priceUsd": 0.79,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "On the Hunt": {
+      "priceUsd": 1.31,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ornn's Forge": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ornn, Blacksmith": {
+      "priceUsd": 2.89,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ornn, Fire Below the Mountain": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ornn, Forge God": {
+      "priceUsd": 3.57,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Overzealous Fan": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Perched Grimwyrm": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Petricite Monument": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pickpocket": {
+      "priceUsd": 0.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Piercing Light": {
+      "priceUsd": 0.67,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Poro Snax": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Power Nexus": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Premonition": {
+      "priceUsd": 6.63,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Prize of Progress": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Production Surge": {
+      "priceUsd": 0.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Punch First": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rabadon's Deathcrown": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rally the Troops": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ravenbloom Conservatory": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Recurve Bow": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rek'Sai, Breacher": {
+      "priceUsd": 6.9,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rek'Sai, Swarm Queen": {
+      "priceUsd": 2.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rek'Sai, Void Burrower": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Relentless Pursuit": {
+      "priceUsd": 3.35,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rell, Magnetic": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Renata Glasc, Chem-Baroness": {
+      "priceUsd": 39.51,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Renata Glasc, Industrialist": {
+      "priceUsd": 2.25,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Renata Glasc, Mastermind": {
+      "priceUsd": 4.59,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rengar, Pouncing": {
+      "priceUsd": 0.38,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ribbon Dancer": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Riposte": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rocket Barrage": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rockfall Path": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Royal Entourage": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Royal Guard": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ruin Runner": {
+      "priceUsd": 0.28,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rumble, Hotheaded": {
+      "priceUsd": 2.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rumble, Mechanized Menace": {
+      "priceUsd": 11.93,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rumble, Scrapper": {
+      "priceUsd": 3.55,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sacred Shears": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sandshifter": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sea Monkey": {
+      "priceUsd": 0.24,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Seat of Power": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sentinel Adept": {
+      "priceUsd": 0.02,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Serrated Dirk": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Show of Strength": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shurelya's Requiem": {
+      "priceUsd": 0.99,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Simian Ancestor": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sivir, Ambitious": {
+      "priceUsd": 485.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sivir, Battle Mistress": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sivir, Mercenary": {
+      "priceUsd": 2.66,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Skyfall of Areion": {
+      "priceUsd": 11.53,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Soraka, Wanderer": {
+      "priceUsd": 543.34,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Spinning Axe": {
+      "priceUsd": 9.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Spirit Wheel": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stellacorn Herder": {
+      "priceUsd": 1.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sterak's Gage": {
+      "priceUsd": 0.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Strike Down": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sudden Storm": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sunken Temple": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Svellsongur": {
+      "priceUsd": 187.97,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Switcheroo": {
+      "priceUsd": 0.51,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Temporal Portal": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Temptation": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Papertree": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Zero Drive": {
+      "priceUsd": 2.52,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Thwonk!": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Tianna Crownguard": {
+      "priceUsd": 5.44,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Treasure Hoard": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Treasure Hunter": {
+      "priceUsd": 1.01,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Trinity Force": {
+      "priceUsd": 0.45,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Trove Golem": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Trusty Ramhound": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Undertitan": {
+      "priceUsd": 0.27,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Unsung Hero": {
+      "priceUsd": 0.37,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vanguard Armory": {
+      "priceUsd": 0.24,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Veiled Temple": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vex, Cheerless": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Void Drone": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Void Hatchling": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Void Rush": {
+      "priceUsd": 6.44,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wages of Pain": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Warmog's Armor": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Windsinger": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "World Atlas": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Xin Zhao, Vigilant": {
+      "priceUsd": 0.53,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yone, Blademaster": {
+      "priceUsd": 0.35,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yordle Explorer": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Zaun Punk": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Battering Ram": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Seal of Rage": {
+      "priceUsd": 20.65,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vayne, Hunter": {
+      "priceUsd": 0.65,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Seal of Focus": {
+      "priceUsd": 18.72,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ahri, Inquisitive": {
+      "priceUsd": 12.45,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Seal of Insight": {
+      "priceUsd": 17.91,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Teemo, Strategist": {
+      "priceUsd": 5.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Seal of Strength": {
+      "priceUsd": 13.47,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sett, Brawler": {
+      "priceUsd": 28.58,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Seal of Discord": {
+      "priceUsd": 26.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yasuo, Windrider": {
+      "priceUsd": 5.29,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Darius, Executioner": {
+      "priceUsd": 5.67,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Karma, Channeler": {
+      "priceUsd": 0.38,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Seal of Unity": {
+      "priceUsd": 27.85,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mech": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sand Soldier": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Ornn, Fire Below the Mountain": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Draven, Glorious Executioner": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Jax, Grandmaster at Arms": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Fiora, Grand Duelist": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Irelia, Blade Dancer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Lucian, Purifier": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Ezreal, Prodigal Explorer": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Renata Glasc, Chem-Baroness": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Rek'Sai, Void Burrower": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Azir, Emperor of the Sands": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Sivir, Battle Mistress": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Rumble, Mechanized Menace": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dark Child - Starter": {
+      "priceUsd": 9.18,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Annie, Fiery": {
+      "priceUsd": 6.02,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Annie, Stubborn": {
+      "priceUsd": 11.74,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blast of Power": {
+      "priceUsd": 2.81,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Decisive Strike": {
+      "priceUsd": 4.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Final Spark": {
+      "priceUsd": 4.66,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Firestorm": {
+      "priceUsd": 0.44,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Flash": {
+      "priceUsd": 4.34,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Garen, Commander": {
+      "priceUsd": 4.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Might of Demacia - Starter": {
+      "priceUsd": 1.64,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Garen, Rugged": {
+      "priceUsd": 3.79,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gentlemen's Duel": {
+      "priceUsd": 0.26,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Highlander": {
+      "priceUsd": 3.42,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Incinerate": {
+      "priceUsd": 0.97,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lux, Crownguard": {
+      "priceUsd": 11.27,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lux, Illuminated": {
+      "priceUsd": 4.69,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lady of Luminosity - Starter": {
+      "priceUsd": 13.32,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yi, Honed": {
+      "priceUsd": 3.45,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yi, Meditative": {
+      "priceUsd": 0.99,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wuju Bladesman - Starter": {
+      "priceUsd": 12.33,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Recruit the Vanguard": {
+      "priceUsd": 3.25,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Tibbers": {
+      "priceUsd": 4.5,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vanguard Attendant": {
+      "priceUsd": 0.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Zephyr Sage": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Acceptable Losses": {
+      "priceUsd": 0.23,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Adaptatron": {
+      "priceUsd": 0.32,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ahri, Alluring": {
+      "priceUsd": 20.69,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ahri, Nine-Tailed Fox": {
+      "priceUsd": 29.63,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Albus Ferros": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Altar to Unity": {
+      "priceUsd": 421.5,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Anivia, Primal": {
+      "priceUsd": 0.42,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Arena Bar": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Aspirant's Climb": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ava Achiever": {
+      "priceUsd": 0.26,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Back to Back": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Back-Alley Bar": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Baited Hook": {
+      "priceUsd": 40.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bandle Tree": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bilgewater Bully": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blastcone Fae": {
+      "priceUsd": 0.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blazing Scorcher": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blind Fury": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Blitzcrank, Impassive": {
+      "priceUsd": 2.74,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Block": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Brazen Buccaneer": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Brynhir Thundersong": {
+      "priceUsd": 44.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Bullet Time": {
+      "priceUsd": 12.46,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Caitlyn, Patrolling": {
+      "priceUsd": 32.72,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Call to Glory": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cannon Barrage": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Captain Farron": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Carnivorous Snapvine": {
+      "priceUsd": 0.64,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Catalyst of Aeons": {
+      "priceUsd": 0.43,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cemetery Attendant": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Challenge": {
+      "priceUsd": 0.61,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Charm": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Chemtech Enforcer": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cithria of Cloudfield": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cleave": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Clockwork Keeper": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Commander Ledros": {
+      "priceUsd": 0.45,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Confront": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Consult the Past": {
+      "priceUsd": 0.36,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Convergent Mutation": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Crackshot Corsair": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cruel Patron": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Cull the Weak": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dangerous Duo": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Darius, Hand of Noxus": {
+      "priceUsd": 9.76,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Darius, Trifarian": {
+      "priceUsd": 3.36,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dazzling Aurora": {
+      "priceUsd": 49.28,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Deadbloom Predator": {
+      "priceUsd": 19.59,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Defy": {
+      "priceUsd": 0.57,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Discipline": {
+      "priceUsd": 0.93,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Disintegrate": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Divine Judgment": {
+      "priceUsd": 6.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dr. Mundo, Expert": {
+      "priceUsd": 0.81,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dragon's Rage": {
+      "priceUsd": 2.66,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Draven, Showboat": {
+      "priceUsd": 0.55,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Dune Drake": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Eager Apprentice": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Eclipse Herald": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ekko, Recurrent": {
+      "priceUsd": 1.0,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ember Monk": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "En Garde": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Energy Conduit": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Facebreaker": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fading Memories": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Faithful Manufactor": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Falling Comet": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Falling Star": {
+      "priceUsd": 6.57,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fight or Flight": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Find Your Center": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fiora, Victorious": {
+      "priceUsd": 4.29,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "First Mate": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Flame Chompers": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Flurry of Blades": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Forge of the Future": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fortified Position": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Fox-Fire": {
+      "priceUsd": 5.6,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Garbage Grabber": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gemcraft Seer": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Get Excited!": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Grand Strategem": {
+      "priceUsd": 0.68,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Grove of the God-Willow": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Guerilla Warfare": {
+      "priceUsd": 5.28,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Gust": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hallowed Tomb": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Harnessed Dragon": {
+      "priceUsd": 1.33,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Heimerdinger, Inventor": {
+      "priceUsd": 24.23,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Herald of Scales": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hextech Ray": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Hidden Blade": {
+      "priceUsd": 0.23,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Icathian Rain": {
+      "priceUsd": 7.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Immortal Phoenix": {
+      "priceUsd": 16.0,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Imperial Decree": {
+      "priceUsd": 2.44,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Invert Timelines": {
+      "priceUsd": 9.31,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Iron Ballista": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jeweled Colossus": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jinx, Demolitionist": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jinx, Loose Cannon": {
+      "priceUsd": 292.01,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Jinx, Rebel": {
+      "priceUsd": 96.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kadregrin the Infernal": {
+      "priceUsd": 12.74,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kai'Sa, Daughter of the Void": {
+      "priceUsd": 19.39,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kai'Sa, Evolutionary": {
+      "priceUsd": 0.58,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kai'Sa, Survivor": {
+      "priceUsd": 60.28,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Karthus, Eternal": {
+      "priceUsd": 5.76,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kayn, Unleashed": {
+      "priceUsd": 0.55,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "King's Edict": {
+      "priceUsd": 0.26,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kinkou Monk": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kog'Maw, Caustic": {
+      "priceUsd": 0.32,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Kraken Hunter": {
+      "priceUsd": 0.23,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Last Breath": {
+      "priceUsd": 3.25,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Last Stand": {
+      "priceUsd": 0.26,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lecturing Yordle": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lee Sin, Ascetic": {
+      "priceUsd": 5.51,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lee Sin, Blind Monk": {
+      "priceUsd": 12.11,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lee Sin, Centered": {
+      "priceUsd": 0.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Legion Rearguard": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Leona, Determined": {
+      "priceUsd": 5.11,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Leona, Radiant Dawn": {
+      "priceUsd": 14.0,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Leona, Zealot": {
+      "priceUsd": 7.46,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Machine Evangel": {
+      "priceUsd": 0.94,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Maddened Marauder": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mageseeker Warden": {
+      "priceUsd": 0.24,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Magma Wurm": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Malzahar, Fanatic": {
+      "priceUsd": 0.39,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mask of Foresight": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Meditation": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mega-Mech": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mindsplitter": {
+      "priceUsd": 5.64,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Miss Fortune, Bounty Hunter": {
+      "priceUsd": 12.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Miss Fortune, Buccaneer": {
+      "priceUsd": 134.5,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Miss Fortune, Captain": {
+      "priceUsd": 11.25,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mistfall": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mobilize": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Monastery of Hirana": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Morbid Return": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mountain Drake": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mushroom Pouch": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Mystic Reversal": {
+      "priceUsd": 4.76,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Navori Fighting Pit": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Nocturne, Horrifying": {
+      "priceUsd": 1.82,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Noxian Drummer": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Noxian Guillotine": {
+      "priceUsd": 1.93,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Noxus Hopeful": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Noxus Saboteur": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Obelisk of Power": {
+      "priceUsd": 0.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Orb of Regret": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Overt Operation": {
+      "priceUsd": 0.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pack of Wonders": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pakaa Cub": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Party Favors": {
+      "priceUsd": 0.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Peak Guardian": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Petty Officer": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pirate's Haven": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pit Crew": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Pit Rookie": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Playful Phantom": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Poro Herder": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Portal Rescue": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Possession": {
+      "priceUsd": 4.69,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Primal Strength": {
+      "priceUsd": 0.57,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Progress Day": {
+      "priceUsd": 0.67,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Promising Future": {
+      "priceUsd": 0.26,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Qiyana, Victorious": {
+      "priceUsd": 2.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Raging Firebrand": {
+      "priceUsd": 0.29,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Raging Soul": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ravenbloom Student": {
+      "priceUsd": 0.65,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ravenborn Tome": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Reaver's Row": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rebuke": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Reckoner's Arena": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Recruit (DE)": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Recruit (NX)": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Recruit (ZN)": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Reinforce": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Retreat": {
+      "priceUsd": 1.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rhasa the Sunderer": {
+      "priceUsd": 1.46,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Ride the Wind": {
+      "priceUsd": 0.23,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Riptide Rex": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Rune Prison": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sabotage": {
+      "priceUsd": 6.6,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sai Scout": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Salvage": {
+      "priceUsd": 4.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Scrapheap": {
+      "priceUsd": 0.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Scrapyard Champion": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sett, Kingpin": {
+      "priceUsd": 0.52,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sett, The Boss": {
+      "priceUsd": 13.01,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shakedown": {
+      "priceUsd": 0.31,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shen, Kinkou": {
+      "priceUsd": 0.79,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Shipyard Skulker": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Showstopper": {
+      "priceUsd": 11.64,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sigil of the Storm": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Singularity": {
+      "priceUsd": 1.83,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Siphon Power": {
+      "priceUsd": 3.75,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sky Splitter": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Smoke Screen": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sneaky Deckhand": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Soaring Scout": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Solari Chief": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Solari Shieldbearer": {
+      "priceUsd": 0.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Solari Shrine": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sona, Harmonious": {
+      "priceUsd": 6.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Soulgorger": {
+      "priceUsd": 0.36,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Spectral Matron": {
+      "priceUsd": 0.29,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Spirit's Refuge": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Spoils of War": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sprite Call": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sprite Mother": {
+      "priceUsd": 0.6,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stacked Deck": {
+      "priceUsd": 3.35,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stalwart Poro": {
+      "priceUsd": 0.32,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stand United": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Startipped Peak": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stealthy Pursuer": {
+      "priceUsd": 0.13,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stormbringer": {
+      "priceUsd": 5.19,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stormclaw Ursine": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Stupefy": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sun Disc": {
+      "priceUsd": 0.19,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Sunlit Guardian": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Super Mega Death Rocket!": {
+      "priceUsd": 7.87,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Symbol of the Solari": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Targon's Peak": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Taric, Protector": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Tasty Faefolk": {
+      "priceUsd": 1.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Teemo, Scout": {
+      "priceUsd": 468.76,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Teemo, Swift Scout": {
+      "priceUsd": 105.06,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Arena's Greatest": {
+      "priceUsd": 0.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Candlelit Sanctum": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Dreaming Tree": {
+      "priceUsd": 0.37,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Grand Plaza": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Harrowing": {
+      "priceUsd": 0.35,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "The Syren": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Thermo Beam": {
+      "priceUsd": 0.36,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Thousand-Tailed Watcher": {
+      "priceUsd": 21.92,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Tideturner": {
+      "priceUsd": 0.84,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Time Warp": {
+      "priceUsd": 48.88,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Traveling Merchant": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Treasure Trove": {
+      "priceUsd": 0.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Trifarian Gloryseeker": {
+      "priceUsd": 0.05,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Trifarian War Camp": {
+      "priceUsd": 0.17,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Tryndamere, Barbarian": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Twisted Fate, Gambler": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Udyr, Wildman": {
+      "priceUsd": 0.3,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Unchecked Power": {
+      "priceUsd": 39.77,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Undercover Agent": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Unlicensed Armory": {
+      "priceUsd": 0.12,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Unyielding Spirit": {
+      "priceUsd": 0.66,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vanguard Captain": {
+      "priceUsd": 0.2,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vanguard Helm": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vanguard Sergeant": {
+      "priceUsd": 0.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vengeance": {
+      "priceUsd": 0.27,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vi, Destructive": {
+      "priceUsd": 57.83,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Viktor, Herald of the Arcane": {
+      "priceUsd": 262.44,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Viktor, Innovator": {
+      "priceUsd": 0.27,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Viktor, Leader": {
+      "priceUsd": 58.59,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Vilemaw's Lair": {
+      "priceUsd": 0.22,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Void Gate": {
+      "priceUsd": 0.16,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Void Seeker": {
+      "priceUsd": 0.42,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Volibear, Furious": {
+      "priceUsd": 2.43,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Volibear, Imposing": {
+      "priceUsd": 0.44,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Volibear, Relentless Storm": {
+      "priceUsd": 268.03,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wallop": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Warwick, Hunter": {
+      "priceUsd": 16.56,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Watchful Sentry": {
+      "priceUsd": 0.08,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Whirlwind": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Whiteflame Protector": {
+      "priceUsd": 0.27,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wielder of Water": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wildclaw Shaman": {
+      "priceUsd": 0.07,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wind Wall": {
+      "priceUsd": 1.24,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Windswept Hillock": {
+      "priceUsd": 0.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wizened Elder": {
+      "priceUsd": 0.1,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Wraith of Echoes": {
+      "priceUsd": 0.21,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yasuo, Remorseful": {
+      "priceUsd": 4.53,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Yasuo, Unforgiven": {
+      "priceUsd": 244.04,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Zaun Warrens": {
+      "priceUsd": 0.15,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Zaunite Bouncer": {
+      "priceUsd": 0.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Zenith Blade": {
+      "priceUsd": 11.09,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Zhonya's Hourglass": {
+      "priceUsd": 8.52,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Master Yi, Meditative": {
+      "priceUsd": 3.75,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Master Yi, Honed": {
+      "priceUsd": 10.14,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Annie, Dark Child": {
+      "priceUsd": 15.11,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Master Yi, Wuju Bladesman": {
+      "priceUsd": 24.38,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Lux, Lady of Luminosity": {
+      "priceUsd": 15.49,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Garen, Might of Demacia": {
+      "priceUsd": 4.88,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Recruit": {
+      "priceUsd": 19.95,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Volibear, Relentless Storm": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Sett, The Boss": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Lux, Lady of Luminosity": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "'Best Of' Plated Legend: Volibear, Relentless Storm": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Yasuo, Unforgiven": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Teemo, Swift Scout": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Miss Fortune, Bounty Hunter": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Kai'Sa, Daughter of the Void": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Leona, Radiant Dawn": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Garen, Might of Demacia": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Annie, Dark Child": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Viktor, Herald of the Arcane": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Darius, Hand of Noxus": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Master Yi, Wuju Bladesman": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Lee Sin, Blind Monk": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Jinx, Loose Cannon": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    },
+    "Plated Legend: Ahri, Nine-Tailed Fox": {
+      "priceUsd": null,
+      "lastUpdated": "2026-05-23",
+      "source": "CardMarket"
+    }
+  }
 }

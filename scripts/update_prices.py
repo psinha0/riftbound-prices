@@ -20,7 +20,7 @@ JUSTTCG_URL     = "https://api.justtcg.com"
 JUSTTCG_GAME    = "riftbound-league-of-legends-trading-card-game"
 PRICES_FILE     = "docs/prices.json"
 PAGE_SIZE       = 20   # free-tier max
-REQUEST_DELAY   = 1.5  # seconds between page requests
+REQUEST_DELAY   = 7.0  # free tier allows 10 req/min → 6s minimum; 7s gives headroom
 
 
 # ── I/O helpers ───────────────────────────────────────────────────────────────
@@ -38,13 +38,22 @@ def fetch_all_cards() -> list[dict]:
     cards  = []
     offset = 0
     while True:
-        resp = requests.get(
-            f"{JUSTTCG_URL}/v1/cards",
-            headers={"x-api-key": JUSTTCG_API_KEY},
-            params={"game": JUSTTCG_GAME, "limit": PAGE_SIZE, "offset": offset},
-            timeout=30,
-        )
-        resp.raise_for_status()
+        for attempt in range(3):
+            try:
+                resp = requests.get(
+                    f"{JUSTTCG_URL}/v1/cards",
+                    headers={"x-api-key": JUSTTCG_API_KEY},
+                    params={"game": JUSTTCG_GAME, "limit": PAGE_SIZE, "offset": offset},
+                    timeout=30,
+                )
+                resp.raise_for_status()
+                break
+            except requests.exceptions.HTTPError as e:
+                if resp.status_code == 429 and attempt < 2:
+                    print(f"  429 rate limit — waiting 65s before retry…")
+                    time.sleep(65)
+                else:
+                    raise
         body  = resp.json()
         items = body.get("data", [])
         cards.extend(items)

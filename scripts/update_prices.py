@@ -2,10 +2,9 @@
 """
 Daily card price updater for Riftbound TCG.
 
-Fetches the full card list from RiftCodex, picks the 50 cards with the
-oldest cached prices, refreshes them via the tcggo CardMarket API, converts
-EUR → USD using a live exchange rate, and writes the result back to
-docs/prices.json so GitHub Pages can serve it to the Android app.
+Pages through all Riftbound cards on the tcggo CardMarket API (~12 calls),
+converts EUR → USD using a live exchange rate, and writes the full result
+to docs/prices.json so GitHub Pages can serve it to the Android app.
 """
 
 import json
@@ -18,14 +17,13 @@ import requests
 TCGGO_API_KEY   = os.environ["TCGGO_API_KEY"]
 TCGGO_HOST      = "cardmarket-api-tcg.p.rapidapi.com"
 TCGGO_GAME      = "riftbound"
-RIFTCODEX_URL   = "https://api.riftcodex.com"
 EXCHANGE_URL    = "https://open.er-api.com/v6/latest/EUR"
 PRICES_FILE     = "docs/prices.json"
-DAILY_LIMIT     = 50
-REQUEST_DELAY   = 1.5  # seconds between tcggo calls
+PAGE_SIZE       = 100
+REQUEST_DELAY   = 1.5  # seconds between tcggo page requests
 
 
-# ── I/O helpers ──────────────────────────────────────────────────────────────
+# ── I/O helpers ───────────────────────────────────────────────────────────────
 
 def load_prices() -> dict:
     try:
@@ -56,116 +54,68 @@ def fetch_eur_to_usd() -> float:
         return 1.08
 
 
-# ── RiftCodex ─────────────────────────────────────────────────────────────────
+# ── tcggo / CardMarket ────────────────────────────────────────────────────────
 
-def fetch_all_cards() -> list[dict]:
-    """Page through RiftCodex /cards until all cards are collected."""
+def fetch_all_tcggo_cards() -> list[dict]:
+    """Page through all Riftbound cards on tcggo, returning every card object."""
     cards = []
-    page, size = 1, 200
+    page = 1
     while True:
         resp = requests.get(
-            f"{RIFTCODEX_URL}/cards",
-            params={"size": size, "page": page},
+            f"https://{TCGGO_HOST}/{TCGGO_GAME}/cards",
+            headers={
+                "x-rapidapi-key":  TCGGO_API_KEY,
+                "x-rapidapi-host": TCGGO_HOST,
+            },
+            params={"per_page": PAGE_SIZE, "page": page},
             timeout=30,
         )
         resp.raise_for_status()
-        data = resp.json()
-        items = data.get("items", [])
+        body  = resp.json()
+        items = body.get("data", [])
         cards.extend(items)
-        if page >= data.get("pages", 1) or not items:
+        total_pages = body.get("paging", {}).get("total", 1)
+        print(f"  Page {page}/{total_pages} — {len(items)} cards")
+        if page >= total_pages or not items:
             break
         page += 1
+        time.sleep(REQUEST_DELAY)
     return cards
 
 
-# ── tcggo / CardMarket ────────────────────────────────────────────────────────
-
-def fetch_tcggo_price(card_name: str, eur_to_usd: float) -> float | None:
-    """Return best available USD price for a card name via CardMarket, or None."""
-    resp = requests.get(
-        f"https://{TCGGO_HOST}/{TCGGO_GAME}/cards",
-        headers={
-            "x-rapidapi-key":  TCGGO_API_KEY,
-            "x-rapidapi-host": TCGGO_HOST,
-        },
-        params={"search": card_name, "per_page": 5},
-        timeout=30,
-    )
-    resp.raise_for_status()
-
-    items = resp.json().get("data", [])
-    if not items:
-        return None
-
-    # Prefer exact name match, fall back to first result
-    match = next(
-        (c for c in items if (c.get("name") or "").lower() == card_name.lower()),
-        items[0],
-    )
-
-    cm = (match.get("prices") or {}).get("cardmarket") or {}
-    # Prefer 30-day average for stability; fall back to lowest NM listing
+def extract_price_usd(card: dict, eur_to_usd: float) -> float | None:
+    cm = (card.get("prices") or {}).get("cardmarket") or {}
     eur_price = cm.get("30d_average") or cm.get("lowest_near_mint")
     if not eur_price:
         return None
-
     return round(float(eur_price) * eur_to_usd, 2)
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-def last_updated_ts(card: dict, prices: dict) -> float:
-    """Return epoch seconds of when this card was last priced (0 = never)."""
-    entry = prices.get(card.get("name", ""), {})
-    date_str = entry.get("lastUpdated", "")
-    if not date_str:
-        return 0.0
-    try:
-        return datetime.fromisoformat(date_str).replace(tzinfo=timezone.utc).timestamp()
-    except ValueError:
-        return 0.0
-
-
 def main():
-    data   = load_prices()
-    prices = data.get("prices", {})
-
     print("Fetching EUR→USD exchange rate…")
     eur_to_usd = fetch_eur_to_usd()
 
-    print("Fetching card list from RiftCodex…")
-    all_cards = fetch_all_cards()
-    print(f"  {len(all_cards)} cards found")
+    print("Fetching all Riftbound cards from tcggo…")
+    all_cards = fetch_all_tcggo_cards()
+    print(f"  {len(all_cards)} cards fetched")
 
-    # Sort by oldest lastUpdated so every card eventually gets refreshed
-    to_update = sorted(all_cards, key=lambda c: last_updated_ts(c, prices))[:DAILY_LIMIT]
+    today  = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    prices = {}
 
-    today   = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    updated = 0
-
-    for card in to_update:
-        name = card.get("name", "").strip()
+    for card in all_cards:
+        name = (card.get("name") or "").strip()
         if not name:
             continue
+        prices[name] = {
+            "priceUsd":    extract_price_usd(card, eur_to_usd),
+            "lastUpdated": today,
+            "source":      "CardMarket",
+        }
 
-        print(f"  Fetching: {name}")
-        try:
-            price = fetch_tcggo_price(name, eur_to_usd)
-            prices[name] = {
-                "priceUsd":    price,
-                "lastUpdated": today,
-                "source":      "CardMarket",
-            }
-            updated += 1
-        except Exception as exc:
-            print(f"    Error: {exc}")
-
-        time.sleep(REQUEST_DELAY)
-
-    data["lastUpdated"] = today
-    data["prices"]      = prices
-    save_prices(data)
-    print(f"\nDone. Updated {updated} prices. Total cached: {len(prices)}")
+    save_prices({"lastUpdated": today, "prices": prices})
+    print(f"\nDone. {len(prices)} prices written.")
 
 
 if __name__ == "__main__":

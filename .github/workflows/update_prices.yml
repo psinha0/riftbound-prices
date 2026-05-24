@@ -2,7 +2,7 @@ name: Update Card Prices
 
 on:
   schedule:
-    - cron: '23 1 * * *'   # 01:23 UTC daily — off-peak to spread load
+    - cron: '23 1 */2 * *'  # every 2 days at 01:23 UTC (~15 runs/month, ~600 calls)
   workflow_dispatch:        # allow manual run from GitHub Actions tab
 
 jobs:
